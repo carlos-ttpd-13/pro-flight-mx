@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 100" role="img" aria-label="Avión comercial">
+ <path d="M13 61C29 55 70 50 131 44l45-6c17-2 32-1 37 4 4 4-7 11-20 14l-53 11-95 11c-13 1-26-3-32-10z" fill="#F1D392"/>
+ <path d="M26 58 12 12l13-2 43 43z" fill="#D4A64E"/>
+ <path d="m83 54-16 42h20l49-46z" fill="#C28F3D"/>
+ <path d="m97 52-5 28h14l32-31z" fill="#E6B967"/>
+ <path d="M104 73c7-3 18-4 23-1 4 4-1 9-9 11l-18 2z" fill="#916924"/>
+ <path d="M15 64c12 5 22 7 44 5l134-17" fill="none" stroke="#966F2B" stroke-width="2" opacity=".8"/>
+ <g fill="#14202B"><circle cx="62" cy="60" r="2.4"/><circle cx="75" cy="58" r="2.4"/><circle cx="88" cy="56" r="2.4"/><circle cx="101" cy="54" r="2.4"/><circle cx="114" cy="52" r="2.4"/><circle cx="127" cy="50" r="2.4"/><circle cx="140" cy="48" r="2.4"/><circle cx="153" cy="46" r="2.4"/><path d="m192 41 12-1-10 6-6 1z"/></g>
+ </svg>
